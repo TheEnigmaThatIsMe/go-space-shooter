@@ -26,7 +26,7 @@ go get -u github.com/hajimehoshi/ebiten/v2
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/go-space-shooter.git
+git clone https://github.com/TheEnigmaThatIsMe/go-space-shooter.git
 cd go-space-shooter
 ```
 
